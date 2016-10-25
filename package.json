@@ -4,7 +4,7 @@
   "description": "This is an awesoeme bot.",
   "main": "quickchat.js",
   "scripts": {
-	"start": "node quickchat.js",
+    "start": "node quickchat.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
