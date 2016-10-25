@@ -1,0 +1,23 @@
+{
+  "name": "atlinnovationbot",
+  "version": "1.0.0",
+  "description": "This is an awesoeme bot.",
+  "main": "quickchat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitrahareesh/atlInnovationbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaitrahareesh/atlInnovationbot/issues"
+  },
+  "homepage": "https://github.com/chaitrahareesh/atlInnovationbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.3.3",
+    "restify": "^4.1.1"
+  }
+}
